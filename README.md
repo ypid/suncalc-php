@@ -8,15 +8,12 @@
 [![PHP version](https://badge.fury.io/ph/ypid%2Fsuncalc.svg)](https://packagist.org/packages/ypid/suncalc)
 
 
-This library was automatically build using [Haxe](http://haxe.org/) to target PHP.
-
-Refer to https://github.com/ypid/suncalc when you want to contribute. Note that you should only report issues against [this repository](https://github.com/ypid/suncalc-php) when you think the issue only occurs in the PHP port of this library. If you are unsure, report [against the source repository](https://github.com/ypid/suncalc) instead.
 
 The SunCalc module allows to calculate sun position,
 sunlight phases (times for sunrise, sunset, dusk, etc.),
 moon position and lunar phase for the given location and time.
 
-The library was ported to Haxe by [Robin `ypid` Schneider](https://github.com/ypid) to allow using it in a [opening hours](https://github.com/opening-hours/opening_hours.js/issues/136) library.
+The library was ported to Haxe by [Robin `ypid` Schneider](https://github.com/ypid) to allow using it in a library for [opening hours](https://github.com/opening-hours/opening_hours.js/issues/136).
 
 It is based on the [JavaScript implementation](https://github.com/mourner/suncalc)
 created by [Vladimir Agafonkin](http://agafonkin.com/en) ([@mourner](https://github.com/mourner))
@@ -30,6 +27,10 @@ in the [Twilight article on Wikipedia](https://en.wikipedia.org/wiki/Twilight).
 
 Refer to the [API documentation](https://ypid.github.io/suncalc/suncalc/SunCalc.html) for details.
 
+## Internals
+This library was automatically build using [Haxe](http://haxe.org/) to target PHP.
+
+Refer to https://github.com/ypid/suncalc when you want to contribute. Note that you should only report issues against [this repository](https://github.com/ypid/suncalc-php) when you think the issue only occurs in the PHP port of this library. If you are unsure, report [against the source repository](https://github.com/ypid/suncalc) instead.
 
 ## License
 
