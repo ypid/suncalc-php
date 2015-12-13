@@ -5,8 +5,9 @@
      instead have a look at: metainfo.json, templates/ports_README.md.j2 at https://github.com/ypid/suncalc. -->
 
 [![Build Status](https://travis-ci.org/ypid/suncalc.svg?branch=master)](https://travis-ci.org/ypid/suncalc)
-[![NPM version](https://badge.fury.io/js/suncalc.svg)](https://www.npmjs.org/package/suncalc)
-[![PHP version](https://badge.fury.io/ph/ypid%2Fsuncalc.svg)](https://packagist.org/packages/ypid/suncalc)
+[![haxelib version](https://img.shields.io/badge/Haxe-v1.7.0-blue.svg)](http://lib.haxe.org/p/suncalc)
+[![NPM version](https://img.shields.io/npm/v/suncalc.svg)](https://www.npmjs.org/package/suncalc)
+[![Packagist version](https://img.shields.io/packagist/v/ypid/suncalc.svg)](https://packagist.org/packages/ypid/suncalc)
 
 
 The SunCalc module allows to calculate sun position,
@@ -32,14 +33,15 @@ Refer to the [API documentation](https://ypid.github.io/suncalc/suncalc/SunCalc.
 Install the library for your favorite language by executing one of the following commands:
 
 ```Shell
+npm install suncalc             # Haxe
 npm install suncalc             # JavaScript/Node.JS
 composer require ypid/suncalc   # PHP
 ```
 
 ## Internals
-This library was automatically build using [Haxe](http://haxe.org/) to target PHP.
+This library was automatically build using [Haxe](http://haxe.org/) to target Packagist.
 
-Refer to https://github.com/ypid/suncalc when you want to contribute. Note that you should only report issues against [this repository](https://github.com/ypid/suncalc-php) when you think the issue only occurs in the PHP port of this library. If you are unsure, report [against the source repository](https://github.com/ypid/suncalc) instead.
+Refer to https://github.com/ypid/suncalc when you want to contribute. Note that you should only report issues against [this repository](https://github.com/ypid/suncalc-php) when you think the issue only occurs in the Packagist port of this library. If you are unsure, report [against the source repository](https://github.com/ypid/suncalc) instead.
 
 ## License
 

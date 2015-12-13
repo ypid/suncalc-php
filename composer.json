@@ -20,7 +20,10 @@
       "email": "ypid@riseup.net",
       "homepage": "http://ypid.de/",
       "role": "Maintainer/Rewrite in Haxe",
-      "targets": "all"
+      "targets": [
+        "haxe",
+        "php"
+      ]
     },
     {
       "name": "Vladimir Agafonkin",
@@ -29,7 +32,8 @@
       "homepage": "http://agafonkin.com/en",
       "role": "Initial implementation in JavaScript",
       "targets": [
-        "js"
+        "js",
+        "go"
       ]
     }
   ]
