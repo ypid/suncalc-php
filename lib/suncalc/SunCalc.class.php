@@ -2,7 +2,7 @@
 /*
  * @name: suncalc
  * @description: Calculate sun position, sunlight phases, moon position and lunar phase.
- * @source: https://github.com/ypid/suncalc/blob/master/suncalc/SunCalc.hx
+ * @source: https://github.com/ypid/suncalc/blob/master/src/suncalc/SunCalc.hx
  * @license: BSD-2-Clause
  * @author: Vladimir Agafonkin
  * @author: Robin Schneider <ypid@riseup.net>
@@ -11,7 +11,7 @@
 class suncalc_SunCalc {
 	public function __construct(){}
 	static $version = "1.7.0";
-	static $version_hash = "ba17748d7dc25f5f025af026a68c8b9305d7530c";
+	static $version_hash = "608649f9b560399d6c3d06fd7840c89250bb9961";
 	static $version_haxe_compiler = "3.2.1";
 	static $dayMs = 86400000;
 	static $J1970 = 2440588;
