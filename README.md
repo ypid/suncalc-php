@@ -39,9 +39,9 @@ composer require ypid/suncalc   # PHP
 ```
 
 ## Internals
-This library was automatically build using [Haxe](http://haxe.org/) to target Packagist.
+This library was automatically build using [Haxe](http://haxe.org/) to target PHP.
 
-Refer to https://github.com/ypid/suncalc when you want to contribute. Note that you should only report issues against [this repository](https://github.com/ypid/suncalc-php) when you think the issue only occurs in the Packagist port of this library. If you are unsure, report [against the source repository](https://github.com/ypid/suncalc) instead.
+Refer to https://github.com/ypid/suncalc when you want to contribute. Note that you should only report issues against [this repository](https://github.com/ypid/suncalc-php) when you think the issue only occurs in the PHP port of this library. If you are unsure, report [against the source repository](https://github.com/ypid/suncalc) instead.
 
 ## License
 
