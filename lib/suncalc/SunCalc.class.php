@@ -11,7 +11,7 @@
 class suncalc_SunCalc {
 	public function __construct(){}
 	static $version = "1.7.0";
-	static $version_hash = "41367307e7872b1683322faa1eec9763ebddfa1a";
+	static $version_hash = "cc88af497f5894b1159e5116e5fd965dd4fd886b";
 	static $version_haxe_compiler = "3.2.1";
 	static $dayMs = 86400000;
 	static $J1970 = 2440588;
