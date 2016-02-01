@@ -5,7 +5,9 @@
   "keywords": [
     "sun",
     "moon",
-    "astronomy"
+    "astronomy",
+    "date",
+    "time"
   ],
   "homepage": "https://github.com/ypid/suncalc",
   "support": {
