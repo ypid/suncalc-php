@@ -4,8 +4,8 @@
  * @description: Calculate sun position, sunlight phases, moon position and lunar phase.
  * @source: https://github.com/ypid/suncalc/blob/master/src/suncalc/SunCalc.hx
  * @license: BSD-2-Clause
- * @author: Vladimir Agafonkin
  * @author: Robin Schneider <ypid@riseup.net>
+ * @author: Vladimir Agafonkin <agafonkin@gmail.com>
  */
 
 class suncalc_SunCalc {
