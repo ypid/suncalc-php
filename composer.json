@@ -3,11 +3,15 @@
   "type": "library",
   "description": "Calculate sun position, sunlight phases, moon position and lunar phase.",
   "keywords": [
-    "sun",
-    "moon",
     "astronomy",
-    "date",
-    "time"
+    "calculation",
+    "illumination",
+    "math",
+    "moon",
+    "sun",
+    "sunrise",
+    "sunset",
+    "twilight"
   ],
   "homepage": "https://github.com/ypid/suncalc",
   "support": {
@@ -25,17 +29,6 @@
       "targets": [
         "haxe",
         "php"
-      ]
-    },
-    {
-      "name": "Vladimir Agafonkin",
-      "nick": "mourner",
-      "email": "agafonkin@gmail.com",
-      "homepage": "http://agafonkin.com/en",
-      "role": "Initial implementation in JavaScript",
-      "targets": [
-        "js",
-        "go"
       ]
     }
   ]
