@@ -38,10 +38,48 @@ npm install suncalc             # JavaScript/Node.JS
 composer require ypid/suncalc   # PHP
 ```
 
+
+## Getting started
+
+Check out the following example to get started.
+
+```php
+## Needed when executed in the root of this repository.
+require_once __DIR__ . '/lib/php/Boot.class.php';
+
+## Needed when installed via composer. FIXME
+# require_once __DIR__ . '/vendor/ypid/suncalc/lib/php/Boot.class.php';
+
+echo suncalc_SunCalc::getMoonIllumination(new Date(2000, 1, 1, 0, 0, 0));
+```
+
+## TODO
+
+Maintainer/tester with PHP knowledge wanted :wink:
+
+Composer does provide a [autoload feature](https://getcomposer.org/doc/04-schema.md#autoload) which is currently not used.
+My experience with PHP is very limited which is the reason I wrote in Haxe and
+generated this PHP target only because all unit tests for PHP passed. If you
+know how to properly support the autoload feature for this library, I will be
+happy to integrate it.
+
+
 ## Internals
 This library was automatically build using [Haxe](http://haxe.org/) to target PHP.
 
 Refer to https://github.com/ypid/suncalc when you want to contribute. Note that you should only report issues against [this repository](https://github.com/ypid/suncalc-php) when you think the issue only occurs in the PHP port of this library. If you are unsure, report [against the source repository](https://github.com/ypid/suncalc) instead.
+
+## Unit testing
+
+Unit testing is done [against the source repository](https://github.com/ypid/suncalc) in Haxe,
+as well as against each transcompile target (PHP in this
+case). You can check them out in the [source repository](https://github.com/ypid/suncalc).
+
+## Maintainers
+
+* [Robin Schneider](http://ypid.de/), role: Maintainer, Rewrite in Haxe
+
+
 
 ## License
 
