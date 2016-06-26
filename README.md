@@ -67,7 +67,7 @@ happy to integrate it.
 ## Internals
 This library was automatically build using [Haxe](http://haxe.org/) to target PHP.
 
-Refer to https://github.com/ypid/suncalc when you want to contribute. Note that you should only report issues against [this repository](https://github.com/ypid/suncalc-php) when you think the issue only occurs in the PHP port of this library. If you are unsure, report [against the source repository](https://github.com/ypid/suncalc) instead.
+Refer to https://github.com/ypid/suncalc when you want to contribute. Note that you should only report issues against [the PHP target repository](https://github.com/ypid/suncalc-php) when you think the issue only occurs in the PHP port of this library. If you are unsure, report [against the source repository](https://github.com/ypid/suncalc) instead.
 
 ## Unit testing
 
@@ -75,7 +75,7 @@ Unit testing is done [against the source repository](https://github.com/ypid/sun
 as well as against each transcompile target (PHP in this
 case). You can check them out in the [source repository](https://github.com/ypid/suncalc).
 
-## Maintainers
+## Maintainer
 
 * [Robin Schneider](http://ypid.de/), role: Maintainer, Rewrite in Haxe
 
