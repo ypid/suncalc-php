@@ -9,6 +9,20 @@
 [![NPM version](https://img.shields.io/npm/v/suncalc.svg)](https://www.npmjs.org/package/suncalc)
 [![Packagist version](https://img.shields.io/packagist/v/ypid/suncalc.svg)](https://packagist.org/packages/ypid/suncalc)
 
+[![GitHub stars](https://img.shields.io/github/stars/ypid/suncalc-php.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ypid/suncalc-php/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ypid/suncalc-php.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/ypid/suncalc-php/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/ypid/suncalc-php.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/ypid/suncalc-php/watchers)
+[![GitHub open issues](https://img.shields.io/github/issues-raw/ypid/suncalc-php.svg?&maxAge=2592000)](https://github.com/ypid/suncalc-php/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/ypid/suncalc-php.svg?maxAge=2592000)](https://github.com/ypid/suncalc-php/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub open pull requests](https://img.shields.io/github/issues-pr-raw/ypid/suncalc-php.svg?&maxAge=2592000)](https://github.com/ypid/suncalc-php/pulls)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/ypid/suncalc-php.svg?&maxAge=2592000)](https://github.com/ypid/suncalc-php/pulls?q=is%3Apr+is%3Aclosed)
+
+[![PHPPackages Rank](https://phppackages.org/p/ypid/suncalc/badge/rank.svg)](http://phppackages.org/p/ypid/suncalc)
+[![PHPPackages Referenced By](https://phppackages.org/p/ypid/suncalc/badge/referenced-by.svg)](http://phppackages.org/p/ypid/suncalc)
+[![Packagist monthly downloads](https://img.shields.io/packagist/dm/ypid/suncalc.svg)](https://packagist.org/packages/ypid/suncalc)
+[![Packagist daily downloads](https://img.shields.io/packagist/dd/ypid/suncalc.svg)](https://packagist.org/packages/ypid/suncalc)
+[![Packagist total downloads](https://img.shields.io/packagist/dt/ypid/suncalc.svg)](https://packagist.org/packages/ypid/suncalc)
+
 
 The SunCalc module allows to calculate sun position,
 sunlight phases (times for sunrise, sunset, dusk, etc.),
