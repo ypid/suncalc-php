@@ -17,8 +17,8 @@
 [![GitHub open pull requests](https://img.shields.io/github/issues-pr-raw/ypid/suncalc-php.svg?&maxAge=2592000)](https://github.com/ypid/suncalc-php/pulls)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/ypid/suncalc-php.svg?&maxAge=2592000)](https://github.com/ypid/suncalc-php/pulls?q=is%3Apr+is%3Aclosed)
 
-[![PHPPackages Rank](https://phppackages.org/p/ypid/suncalc/badge/rank.svg)](http://phppackages.org/p/ypid/suncalc)
-[![PHPPackages Referenced By](https://phppackages.org/p/ypid/suncalc/badge/referenced-by.svg)](http://phppackages.org/p/ypid/suncalc)
+[![PHPPackages Rank](https://phppackages.org/p/ypid/suncalc/badge/rank.svg)](https://phppackages.org/p/ypid/suncalc)
+[![PHPPackages Referenced By](https://phppackages.org/p/ypid/suncalc/badge/referenced-by.svg)](https://phppackages.org/p/ypid/suncalc)
 [![Packagist monthly downloads](https://img.shields.io/packagist/dm/ypid/suncalc.svg)](https://packagist.org/packages/ypid/suncalc)
 [![Packagist daily downloads](https://img.shields.io/packagist/dd/ypid/suncalc.svg)](https://packagist.org/packages/ypid/suncalc)
 [![Packagist total downloads](https://img.shields.io/packagist/dt/ypid/suncalc.svg)](https://packagist.org/packages/ypid/suncalc)
