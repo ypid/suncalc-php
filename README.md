@@ -5,7 +5,7 @@
 
 [![Build Status](https://travis-ci.org/ypid/suncalc.svg?branch=master)](https://travis-ci.org/ypid/suncalc)
 [![BSD licensed](https://img.shields.io/badge/license-BSD-blue.svg)](https://tldrlegal.com/license/bsd-2-clause-license-%28freebsd%29)
-[![haxelib version](https://img.shields.io/badge/Haxe-v1.7.0-blue.svg)](http://lib.haxe.org/p/suncalc)
+[![haxelib version](https://img.shields.io/badge/Haxe-v1.7.0-blue.svg)](https://lib.haxe.org/p/suncalc)
 [![NPM version](https://img.shields.io/npm/v/suncalc.svg)](https://www.npmjs.org/package/suncalc)
 [![Packagist version](https://img.shields.io/packagist/v/ypid/suncalc.svg)](https://packagist.org/packages/ypid/suncalc)
 
@@ -81,7 +81,7 @@ happy to integrate it.
 ## Internals
 This library was automatically build using [Haxe](http://haxe.org/) to target PHP.
 
-Refer to https://github.com/ypid/suncalc when you want to contribute. Note that you should only report issues against [the PHP target repository](https://github.com/ypid/suncalc-php) when you think the issue only occurs in the PHP port of this library. If you are unsure, report [against the source repository](https://github.com/ypid/suncalc) instead.
+Refer to https://github.com/ypid/suncalc when you want to contribute. Note that you should only report issues against [the PHP target repository](https://github.com/ypid/suncalc-php) when you think the issue only applies to the PHP port of this library. If you are unsure, report [against the source repository](https://github.com/ypid/suncalc) instead.
 
 ## Unit testing
 
